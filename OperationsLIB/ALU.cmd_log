@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/XilinxProjects/OperationsLIB/ALU.xst" -ofn "D:/XilinxProjects/OperationsLIB/ALU.syr" 
+xst -intstyle ise -ifn "D:/XilinxProjects/OperationsLIB/ALU.xst" -ofn "D:/XilinxProjects/OperationsLIB/ALU.syr" 
+xst -intstyle ise -ifn "D:/XilinxProjects/OperationsLIB/ALU.xst" -ofn "D:/XilinxProjects/OperationsLIB/ALU.syr" 

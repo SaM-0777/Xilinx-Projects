@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/XilinxProjects/Mux21/Mux21_.xst" -ofn "D:/XilinxProjects/Mux21/Mux21_.syr" 

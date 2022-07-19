@@ -1,0 +1,29 @@
+Command line:
+   Demux1_2_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  53546
+
+Tue Aug 31 15:52:28 2021
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150 Meg
+
+ Total Signals          : 17
+ Total Nets             : 17
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 12
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 101
+Total Line Count : 29
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 4992.71 Meg
+
+Tue Aug 31 15:54:06 2021
+

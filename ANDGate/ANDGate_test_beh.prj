@@ -1,0 +1,3 @@
+verilog work "ANDGate_.v"
+verilog work "ANDGate_test.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/XilinxProjects/HalfSubstractor/HalfSubstractor_.xst" -ofn "D:/XilinxProjects/HalfSubstractor/HalfSubstractor_.syr" 

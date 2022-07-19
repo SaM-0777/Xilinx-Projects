@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/XilinxProjects/ORGate/ORGate_test_isim_beh.exe" -prj "D:/XilinxProjects/ORGate/ORGate_test_beh.prj" "work.ORGate_test" "work.glbl" 

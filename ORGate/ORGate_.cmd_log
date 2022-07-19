@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/XilinxProjects/ORGate/ORGate_.xst" -ofn "D:/XilinxProjects/ORGate/ORGate_.syr" 

@@ -1,0 +1,29 @@
+Command line:
+   Crossbar_4x4_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52308
+
+Wed Sep 01 20:13:01 2021
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.57 Meg
+
+ Total Signals          : 26
+ Total Nets             : 87
+ Total Signal Drivers   : 18
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 21
+ Total Traceable Variables  : 31
+ Total Scalar Nets and Variables : 241
+Total Line Count : 265
+
+ Total Simulation Time: 2.64063 sec
+
+ Current Memory Usage: 4678.71 Meg
+
+Wed Sep 01 20:18:29 2021
+

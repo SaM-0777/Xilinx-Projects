@@ -1,0 +1,29 @@
+Command line:
+   FullSubstractor_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49865
+
+Fri Aug 27 20:53:23 2021
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5149.99 Meg
+
+ Total Signals          : 25
+ Total Nets             : 23
+ Total Signal Drivers   : 15
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 17
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 106
+Total Line Count : 47
+
+ Total Simulation Time: 0.5 sec
+
+ Current Memory Usage: 4678.13 Meg
+
+Fri Aug 27 20:56:26 2021
+

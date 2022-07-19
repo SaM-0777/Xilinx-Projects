@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/XilinxProjects/XORGate/XORGate_test_isim_beh.exe" -prj "D:/XilinxProjects/XORGate/XORGate_test_beh.prj" "work.XORGate_test" "work.glbl" 
